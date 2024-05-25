@@ -26,7 +26,6 @@ const App = () => {
   }
 
   const anecdotes = result.data
-  console.log(result)
 
   return (
     <div>
